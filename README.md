@@ -18,6 +18,7 @@ I also want to revert the font as I've gotten used to the newer one and now this
 2. Unzip the folder and extract its contents into Vencord's theme folder
 
 **You can open the themes folder directly from Discord (Vencord/BetterDiscord)'s menu.**
+
 The usual path would be *%AppData%* -> Vencord\themes *(BetterDiscord\themes\)*
 Linux would start in `~/.config` instead of AppData
 
