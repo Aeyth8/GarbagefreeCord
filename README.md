@@ -4,7 +4,9 @@
 I created this fork as I plan to fine-tune the theme and fix things up, I also was annoyed at the internal components utilizing assets from the GitHub repository even if used locally.
 
 My plan *(for the future)* is to make the theme fully local and to modernize/fix some areas in which they are broken, such as the profile view.
-I also want to revert the font as I've gotten used to the newer one and now this one is grating my eyes. (It'll be an option)
+I also want to revert the font as I've gotten used to the newer one and now this one is grating my eyes. 
+
+(It'll be an option)
 
 # Installation
 
